@@ -1,2 +1,2 @@
 # docker-redis
-Redis server build for docker
+Redis server 3.2.13 build for docker
